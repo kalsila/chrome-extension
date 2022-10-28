@@ -1,0 +1,13 @@
+{
+    "name" : "Exemple de prise en main " ,
+    "description" : " Construisez une extension ! " ,
+    "version" : "1.0" ,
+    "manifest_version" : 3 ,
+    "action" : {
+      "default_icon" :{
+        "16": "raw.jpg"
+      },
+     
+      "default_popup" : " popup.html "
+    }
+  }
